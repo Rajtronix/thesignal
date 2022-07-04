@@ -62,7 +62,7 @@ body
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -437,7 +437,7 @@ body
 }
 #wb_homeText 
 {
-   background-color: rgba(139,0,139,0.50);
+   background-color: rgb(0 7 139 / 50%);
    background-image: none;
    border: 1px solid #D5D5D5;
    border-radius: 10px;
@@ -533,7 +533,7 @@ body
    width: 100%;
    background-color: #E9ECEF;
    background-image: none;
-   border: 0px solid #8B008B;
+   border: 0px solid #00148b;
    box-sizing: border-box;
    margin: 0;
 }
@@ -1248,7 +1248,7 @@ body
    flex-direction: column;
    background-color: #F8F9FA;
    background-image: none;
-   border: 1px solid #8B008B;
+   border: 1px solid #00148b;
    border-radius: 10px;
    box-sizing: border-box;
    margin: 0;
@@ -1274,14 +1274,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #featuresCard2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard2-card-item0 i
@@ -1294,7 +1294,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 30px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -1319,7 +1319,7 @@ body
    flex-direction: column;
    background-color: #F8F9FA;
    background-image: none;
-   border: 1px solid #8B008B;
+   border: 1px solid #00148b;
    border-radius: 10px;
    box-sizing: border-box;
    margin: 0;
@@ -1345,14 +1345,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 85px;
 }
 #featuresCard3-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard3-card-item0 i
@@ -1365,7 +1365,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 5px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -1452,7 +1452,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -1522,7 +1522,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -1592,7 +1592,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -2264,7 +2264,7 @@ body
 }
 #contactName:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2287,7 +2287,7 @@ body
 }
 #contactEmail:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2311,7 +2311,7 @@ body
 }
 #contactMessage:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2320,16 +2320,16 @@ body
    top: 10px;
    width: 117px;
    height: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border: 2px #D5D5D5 solid;
    border-radius: 20px;
 }
 #Shape1:hover
 {
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
-   border: 2px #8B008B solid;
+   border: 2px #00148b solid;
 }
 #Shape1_text
 {
@@ -2355,7 +2355,7 @@ body
    flex-direction: column;
    background-color: #F8F9FA;
    background-image: none;
-   border: 1px solid #8B008B;
+   border: 1px solid #00148b;
    border-radius: 10px;
    box-sizing: border-box;
    margin: 0;
@@ -2381,14 +2381,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 53px;
 }
 #Card1-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card1-card-item0 i
@@ -2401,7 +2401,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 30px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -2440,7 +2440,7 @@ body
 }
 #Table2
 {
-   border: 1px solid #8B008B;
+   border: 1px solid #00148b;
    background-color: #F8F8FF;
    background-image: none;
    border-collapse: separate;
@@ -2468,7 +2468,7 @@ body
 }
 #Table2 .cell1
 {
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
    border: 1px #000000 solid;
    text-align: center;
@@ -2479,7 +2479,7 @@ body
 }
 #Table2 .cell2
 {
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
    border: 1px #000000 solid;
    text-align: center;
@@ -2531,7 +2531,7 @@ body
    flex-direction: column;
    background-color: #F8F9FA;
    background-image: none;
-   border: 1px solid #8B008B;
+   border: 1px solid #00148b;
    border-radius: 10px;
    box-sizing: border-box;
    margin: 0;
@@ -2557,14 +2557,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #Card2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card2-card-item0 i
@@ -2577,7 +2577,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 50px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -2621,7 +2621,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 80px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -2654,7 +2654,7 @@ body
    padding: 10px 16px 10px 16px;
    border: 3px solid #F8F9FA;
    border-radius: 5px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Cabin;
@@ -2676,7 +2676,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -2721,7 +2721,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -2755,7 +2755,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -2854,13 +2854,13 @@ body
 {
    border: 2px solid #CCCCCC;
    border-radius: 16px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
    font-weight: bold;
    font-size: 15px;
-   box-shadow: 0px 0px 10px #8B008B;
+   box-shadow: 0px 0px 10px #00148b;
    margin: 10px 0px 40px 0px;
 }
 #Combobox1
@@ -2880,7 +2880,7 @@ body
 }
 #Combobox1:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2903,7 +2903,7 @@ body
 }
 #Editbox1:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2926,7 +2926,7 @@ body
 }
 #Editbox2:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -2947,7 +2947,7 @@ body
 }
 #Combobox2:focus
 {
-   border-color: #8B008B;
+   border-color: #00148b;
    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(139,0,139,0.60);
    outline: 0;
 }
@@ -3070,13 +3070,13 @@ body
 {
    border: 2px solid #CCCCCC;
    border-radius: 16px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
    font-weight: bold;
    font-size: 15px;
-   box-shadow: 0px 0px 10px #8B008B;
+   box-shadow: 0px 0px 10px #00148b;
    margin: 10px 0px 40px 0px;
 }
 #wb_Card5
@@ -3110,7 +3110,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -3141,7 +3141,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 0px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -3167,16 +3167,16 @@ body
    top: 10px;
    width: 117px;
    height: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border: 2px #D5D5D5 solid;
    border-radius: 20px;
 }
 #Shape2:hover
 {
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
-   border: 2px #8B008B solid;
+   border: 2px #00148b solid;
 }
 #Shape2_text
 {
@@ -3198,7 +3198,7 @@ body
 }
 #OverlayMenu2
 {
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border: 0px solid #424242;
    border-radius: 10px;
@@ -3308,7 +3308,7 @@ body
 }
 #OverlayMenu2-overlay
 {
-   background-color: rgba(240,173,78,0.87);
+   background-color: rgb(0 0 0 / 90%);
    height: 100%;
    left: 0;
    overflow: hidden;
@@ -3363,7 +3363,7 @@ body
 .OverlayMenu2 li a:hover 
 {
    color: #424242;
-   background-color: #8B008B;
+   background-color: #00148b;
 }
 #OverlayMenu2-overlay
 {
@@ -3390,7 +3390,7 @@ body
 }
 #OverlayMenu1
 {
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border: 0px solid #424242;
    border-radius: 10px;
@@ -3500,7 +3500,7 @@ body
 }
 #OverlayMenu1-overlay
 {
-   background-color: rgba(240,173,78,0.87);
+   background-color: rgb(0 0 0 / 90%);
    height: 100%;
    left: 0;
    overflow: hidden;
@@ -3555,7 +3555,7 @@ body
 .OverlayMenu1 li a:hover 
 {
    color: #424242;
-   background-color: #8B008B;
+   background-color: #00148b;
 }
 #OverlayMenu1-overlay
 {
@@ -3924,7 +3924,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
 }
 #wb_header
@@ -4149,7 +4149,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: rgba(139,0,139,0.50);
+   background-color: rgb(0 7 139 / 50%);
    background-image: none;
    border-radius: 10px;
 }
@@ -4661,14 +4661,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #featuresCard2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard2-card-item0 i
@@ -4681,7 +4681,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 15px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -4724,14 +4724,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 85px;
 }
 #featuresCard3-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard3-card-item0 i
@@ -4744,7 +4744,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 10px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -4826,7 +4826,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -4888,7 +4888,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -4950,7 +4950,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -5484,14 +5484,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 53px;
 }
 #Card1-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card1-card-item0 i
@@ -5504,7 +5504,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 10px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -5614,14 +5614,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #Card2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card2-card-item0 i
@@ -5634,7 +5634,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 20px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -5673,7 +5673,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 80px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -5706,7 +5706,7 @@ body
    padding: 10px 16px 10px 16px;
    border: 3px solid #F8F9FA;
    border-radius: 5px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Cabin;
@@ -5728,7 +5728,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -5759,7 +5759,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -5793,7 +5793,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -5903,7 +5903,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -6092,7 +6092,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -6120,7 +6120,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -6151,7 +6151,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 0px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -6309,7 +6309,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
 }
 #wb_header
@@ -6535,7 +6535,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: rgba(139,0,139,0.50);
+   background-color: rgb(0 7 139 / 50%);
    background-image: none;
    border-radius: 10px;
 }
@@ -7048,14 +7048,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #featuresCard2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard2-card-item0 i
@@ -7068,7 +7068,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 70px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -7111,14 +7111,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 85px;
 }
 #featuresCard3-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard3-card-item0 i
@@ -7131,7 +7131,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 105px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -7213,7 +7213,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -7275,7 +7275,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -7337,7 +7337,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -7868,14 +7868,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 53px;
 }
 #Card1-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card1-card-item0 i
@@ -7888,7 +7888,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 48px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -7998,14 +7998,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #Card2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card2-card-item0 i
@@ -8018,7 +8018,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 130px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -8057,7 +8057,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 80px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -8090,7 +8090,7 @@ body
    padding: 10px 16px 10px 16px;
    border: 3px solid #F8F9FA;
    border-radius: 5px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Cabin;
@@ -8112,7 +8112,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -8143,7 +8143,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -8177,7 +8177,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -8287,7 +8287,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -8476,7 +8476,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -8504,7 +8504,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -8535,7 +8535,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 0px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -8693,7 +8693,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #8B008B;
+   background-color: #00148b;
    background-image: none;
 }
 #wb_header
@@ -8919,7 +8919,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: rgba(139,0,139,0.50);
+   background-color: rgb(0 7 139 / 50%);
    background-image: none;
    border-radius: 10px;
 }
@@ -9432,14 +9432,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #featuresCard2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard2-card-item0 i
@@ -9452,7 +9452,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 28px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -9495,14 +9495,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 85px;
 }
 #featuresCard3-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #featuresCard3-card-item0 i
@@ -9515,7 +9515,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 20px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -9597,7 +9597,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -9659,7 +9659,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -9721,7 +9721,7 @@ body
    padding: 12px 20px 12px 20px;
    border: 0px solid #1ABC9C;
    border-radius: 40px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Arial;
@@ -10253,14 +10253,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: normal;
    font-size: 53px;
 }
 #Card1-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card1-card-item0 i
@@ -10273,7 +10273,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 20px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Arial;
    font-weight: bold;
    font-size: 24px;
@@ -10383,14 +10383,14 @@ body
    border-radius: 0px;
    background-color: transparent;
    background-image: none;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: normal;
    font-size: 48px;
 }
 #Card2-card-item0 a
 {
-   color: #8B008B;
+   color: #00148b;
    text-decoration: none;
 }
 #Card2-card-item0 i
@@ -10403,7 +10403,7 @@ body
 {
    box-sizing: border-box;
    margin: 0px 0px 0px 90px;
-   color: #8B008B;
+   color: #00148b;
    font-family: Cabin;
    font-weight: bold;
    font-size: 24px;
@@ -10442,7 +10442,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 80px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -10475,7 +10475,7 @@ body
    padding: 10px 16px 10px 16px;
    border: 3px solid #F8F9FA;
    border-radius: 5px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #FFFFFF;
    font-family: Cabin;
@@ -10497,7 +10497,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -10528,7 +10528,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -10562,7 +10562,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
@@ -10672,7 +10672,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -10861,7 +10861,7 @@ body
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    border-radius: 16px;
    margin: 10px 0px 40px 0px;
@@ -10889,7 +10889,7 @@ body
    border-radius: 20px 20px 0 0;
    margin: 0;
    padding: 12px 20px 12px 100px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #000000;
    font-family: Cabin;
@@ -10920,7 +10920,7 @@ body
    border-radius: 0 0 20px 20px;
    margin: 0;
    padding: 12px 20px 12px 0px;
-   background-color: #F0AD4E;
+   background-color: #000000;
    background-image: none;
    color: #292B2C;
    font-family: Arial;
